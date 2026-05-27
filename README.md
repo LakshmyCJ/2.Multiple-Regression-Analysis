@@ -1,2 +1,2 @@
-# A2-SCMA632
+# Project 2
 Regression Analysis of IPL &amp; NSSO Datasets
